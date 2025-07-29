@@ -9,3 +9,14 @@
             display: flex;
             justify-content: center;
         }
+.back {
+    width: 100vw;
+    text-align: center;
+    padding: 4px 0px;
+}
+
+.back a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
